@@ -1,0 +1,15 @@
+* {
+  background-color: black;
+  background-size: 100%;
+}
+
+body {
+  background-color: black;
+  background-size: 100%;
+}
+
+div {
+  color: white;
+  border-color: azure;
+  border-radius: 2px;
+}
